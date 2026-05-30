@@ -9,5 +9,5 @@ It has many "Features" like:
 - Division
 - Input validation
 - Exit option
-  Press RUN to run the given code
+Press RUN to run the given code
 
